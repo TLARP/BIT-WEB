@@ -13,4 +13,12 @@
     <modules>
         <module>bit-cs-compose-web</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+    </dependencies>
 </project>
