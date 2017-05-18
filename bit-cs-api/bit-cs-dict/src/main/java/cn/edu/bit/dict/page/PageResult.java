@@ -19,7 +19,7 @@ public class PageResult<E> implements Serializable {
         this.paginationInfo = paginationInfo;
     }
 
-    List<E> resultList = new ArrayList<E>();
+    List<E> resultList = new ArrayList<>();
 
     PaginationInfo paginationInfo;
 }

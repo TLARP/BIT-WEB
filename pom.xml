@@ -6,13 +6,17 @@
 
     <groupId>cn.edu.bit</groupId>
     <artifactId>cs</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>${project-verion}</version>
 
     <packaging>pom</packaging>
 
     <modules>
         <module>bit-cs-compose-web</module>
     </modules>
+
+    <properties>
+        <project-verion>2017-5-18.local-SNAPSHOT</project-verion>
+    </properties>
 
     <dependencies>
         <dependency>
