@@ -22,7 +22,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="bit-cs-compose" />
         <module name="bit-cs-compose-api" />
         <module name="bit-cs-compose-web" />
         <module name="bit-cs-dict" />
