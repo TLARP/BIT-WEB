@@ -22,10 +22,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="bit-cs-compose" />
+        <module name="bit-cs-compose-api" />
+        <module name="bit-cs-compose-web" />
+        <module name="bit-cs-dict" />
         <module name="BIT-WEB" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="bit-cs-api" target="1.5" />
+      <module name="bit-cs-compose" target="1.5" />
+      <module name="bit-cs-compose-api" target="1.5" />
+      <module name="bit-cs-compose-web" target="1.5" />
+      <module name="bit-cs-dict" target="1.5" />
       <module name="BIT-WEB" target="1.5" />
     </bytecodeTargetLevel>
   </component>
