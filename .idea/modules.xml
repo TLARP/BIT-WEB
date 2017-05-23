@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BIT-WEB.iml" filepath="$PROJECT_DIR$/BIT-WEB.iml" />
       <module fileurl="file://$PROJECT_DIR$/bit-cs-api/bit-cs-api.iml" filepath="$PROJECT_DIR$/bit-cs-api/bit-cs-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/bit-cs-compose.iml" filepath="$PROJECT_DIR$/bit-cs-compose.iml" />
       <module fileurl="file://$PROJECT_DIR$/bit-cs-api/bit-cs-compose-api/bit-cs-compose-api.iml" filepath="$PROJECT_DIR$/bit-cs-api/bit-cs-compose-api/bit-cs-compose-api.iml" />
