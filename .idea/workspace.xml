@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a5b619-c6cd-4998-8737-107655bef33c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BIT-WEB.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BIT-WEB.iws" />
@@ -737,7 +736,7 @@
       <workItem from="1495092001933" duration="5103000" />
       <workItem from="1495097137777" duration="1531000" />
       <workItem from="1495098677955" duration="338000" />
-      <workItem from="1495531000720" duration="53000" />
+      <workItem from="1495531000720" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="#项目初始化">
       <created>1495090694956</created>
@@ -816,11 +815,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495531050353</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="#增加api模块，api增加字典类，所有模块公用">
+      <created>1495531056783</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1495531056783</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9324000" />
+    <option name="totallyTimeSpent" value="9329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
