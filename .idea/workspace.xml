@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a5b619-c6cd-4998-8737-107655bef33c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit-cs-generic-api/bit-cs-generic-api.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit-cs-generic-common/bit-cs-generic-common.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit-cs-generic-provider/bit-cs-generic-provider.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit-cs-provider/bit-cs-provider.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BIT-WEB.iws" />
@@ -81,7 +86,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding />
+              <folding>
+                <element signature="e#427#428#0" expanded="false" />
+                <element signature="e#459#460#0" expanded="false" />
+                <element signature="e#490#491#0" expanded="false" />
+                <element signature="e#522#523#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -736,7 +746,7 @@
       <workItem from="1495092001933" duration="5103000" />
       <workItem from="1495097137777" duration="1531000" />
       <workItem from="1495098677955" duration="338000" />
-      <workItem from="1495531000720" duration="58000" />
+      <workItem from="1495531000720" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="#项目初始化">
       <created>1495090694956</created>
@@ -822,11 +832,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495531056783</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="#增加api模块，api增加字典类，所有模块公用">
+      <created>1495531061142</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1495531061143</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9329000" />
+    <option name="totallyTimeSpent" value="9590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -926,7 +943,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="e#427#428#0" expanded="false" />
+            <element signature="e#459#460#0" expanded="false" />
+            <element signature="e#490#491#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1006,7 +1028,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="e#427#428#0" expanded="false" />
+            <element signature="e#459#460#0" expanded="false" />
+            <element signature="e#490#491#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1211,7 +1238,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="e#427#428#0" expanded="false" />
+            <element signature="e#459#460#0" expanded="false" />
+            <element signature="e#490#491#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1291,11 +1323,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>BIT-WEB</last-edited>
+          <last-edited>bit-cs-provider</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3954023" />
                 <option value="0.6" />
               </list>
             </option>

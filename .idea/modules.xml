@@ -8,6 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/bit-cs-api/bit-cs-compose-api/bit-cs-compose-api.iml" filepath="$PROJECT_DIR$/bit-cs-api/bit-cs-compose-api/bit-cs-compose-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/bit-cs-compose-web/bit-cs-compose-web.iml" filepath="$PROJECT_DIR$/bit-cs-compose-web/bit-cs-compose-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/bit-cs-api/bit-cs-dict/bit-cs-dict.iml" filepath="$PROJECT_DIR$/bit-cs-api/bit-cs-dict/bit-cs-dict.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bit-cs-generic-api/bit-cs-generic-api.iml" filepath="$PROJECT_DIR$/bit-cs-generic-api/bit-cs-generic-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bit-cs-generic-common/bit-cs-generic-common.iml" filepath="$PROJECT_DIR$/bit-cs-generic-common/bit-cs-generic-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bit-cs-generic-provider/bit-cs-generic-provider.iml" filepath="$PROJECT_DIR$/bit-cs-generic-provider/bit-cs-generic-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bit-cs-provider/bit-cs-provider.iml" filepath="$PROJECT_DIR$/bit-cs-provider/bit-cs-provider.iml" />
     </modules>
   </component>
 </project>
