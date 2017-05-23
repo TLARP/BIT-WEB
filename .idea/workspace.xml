@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a5b619-c6cd-4998-8737-107655bef33c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit-cs-generic-api/bit-cs-generic-api.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit-cs-generic-common/bit-cs-generic-common.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit-cs-generic-provider/bit-cs-generic-provider.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit-cs-provider/bit-cs-provider.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bit-cs-generic-api/bit-cs-generic-api.iml" afterPath="$PROJECT_DIR$/bit-cs-generic-api/bit-cs-generic-api.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bit-cs-generic-common/bit-cs-generic-common.iml" afterPath="$PROJECT_DIR$/bit-cs-generic-common/bit-cs-generic-common.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bit-cs-generic-provider/bit-cs-generic-provider.iml" afterPath="$PROJECT_DIR$/bit-cs-generic-provider/bit-cs-generic-provider.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bit-cs-provider/bit-cs-provider.iml" afterPath="$PROJECT_DIR$/bit-cs-provider/bit-cs-provider.iml" />
     </list>
     <ignored path="BIT-WEB.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -279,6 +278,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BIT-WEB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BIT-WEB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bit-cs-generic-common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BIT-WEB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BIT-WEB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bit-cs-generic-common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -290,7 +325,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.3954023" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -298,10 +333,16 @@
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hzwangqiqing\Desktop\project\BIT-WEB\bit-cs-generic-api" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.edu.bit.dict.response" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hzwangqiqing\Desktop\project\BIT-WEB\bit-cs-provider" />
+      <recent name="C:\Users\hzwangqiqing\Desktop\project\BIT-WEB\bit-cs-generic-provider" />
+      <recent name="C:\Users\hzwangqiqing\Desktop\project\BIT-WEB\bit-cs-generic-common" />
       <recent name="C:\Users\hzwangqiqing\Desktop\project\bit-cs-compose\bit-cs-api\bit-cs-dict\src\main\java\cn\edu\bit\dict\response" />
       <recent name="C:\Users\hzwangqiqing\Desktop\project\bit-cs-compose\bit-cs-api\bit-cs-dict\src\main\java\cn\edu\bit\dict" />
     </key>
@@ -746,7 +787,7 @@
       <workItem from="1495092001933" duration="5103000" />
       <workItem from="1495097137777" duration="1531000" />
       <workItem from="1495098677955" duration="338000" />
-      <workItem from="1495531000720" duration="319000" />
+      <workItem from="1495531000720" duration="1557000" />
     </task>
     <task id="LOCAL-00001" summary="#项目初始化">
       <created>1495090694956</created>
@@ -839,11 +880,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495531061143</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="#增加generic模块，和provider模块">
+      <created>1495531344186</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1495531344186</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9590000" />
+    <option name="totallyTimeSpent" value="10828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -853,9 +901,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3645485" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2857143" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3645485" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21070234" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -890,7 +938,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#项目初始化" />
     <MESSAGE value="#增加api模块，api增加字典类，所有模块公用" />
-    <option name="LAST_COMMIT_MESSAGE" value="#增加api模块，api增加字典类，所有模块公用" />
+    <MESSAGE value="#增加generic模块，和provider模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="#增加generic模块，和provider模块" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1323,7 +1372,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>bit-cs-provider</last-edited>
+          <last-edited>bit-cs-generic-common</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
