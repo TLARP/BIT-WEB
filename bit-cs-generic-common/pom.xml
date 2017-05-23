@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>cn.edu.bit</groupId>
-    <artifactId>bit-cs-generic-common</artifactId>
+    <artifactId>bit-cs-generic-api</artifactId>
     <version>${project-verion}</version>
 
 </project>
